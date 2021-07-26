@@ -11,4 +11,12 @@ public void maventest11() {
 public void maventest12() {
 	System.out.println("maventest12");
 }
+@Test
+public void maventest13() {
+	System.out.println("maventest13");
+}
+@Test
+public void maventest14() {
+	System.out.println("maventest14");
+}
 }
